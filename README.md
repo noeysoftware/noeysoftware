@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Noey</h1>
-<h3 align="center">Developer Former certified Architect, Now a designer and a developer.</h3>
+<h3 align="center">Former Architect, Now a designer and a developer.</h3>
 
 - 🔭 I’m currently working on **my personal and Bootcamp Projects**
 
