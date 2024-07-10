@@ -20,11 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **my personal and Bootcamp Projects**
 
-- 🌱 I’m currently learning **Java**
-
-- 👨‍💻 All of my projects are available at [...](...)
-
-- 📫 How to reach me **example@gmail.com**
+- 🌱 I’m currently learning **MERN**
 
 - ⚡ Fun fact **I think I am funny sometimes**
 
